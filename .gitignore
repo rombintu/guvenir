@@ -1,0 +1,11 @@
+# venv
+venv
+
+# database
+*.sql
+
+# private
+.env
+
+# trash
+__pycache__
